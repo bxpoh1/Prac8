@@ -1,4 +1,4 @@
-LIST OF MEMBERS FOR TEAM 12
+/LIST OF MEMBERS FOR TEAM 12
  
 Thang Chee Hong
  
@@ -7,5 +7,6 @@ Low Jun Sheng
 Boon Xin Poh
 studentID:26721805 
 Field of study: mechanical engineering
+date:15/9/2015
  
 Ryan Poh
